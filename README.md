@@ -15,7 +15,7 @@
 
 ## Thanks for stopping by!
 
-First of all, let me introduce myself. I’m an Italian interior and visual designer and junior web developer with a passion for 3D modeling and art. I recently completed a *Web Development* bootcamp with **neue fische** and am currently open to job opportunities!
+First of all, let me introduce myself. I’m an Italian interior/visual designer and junior web developer with a passion for 3D modeling and art. I recently completed a *Web Development* bootcamp with **neue fische** and am currently open to job opportunities!
 
 ### Software I have experience with:
 - Adobe Photoshop
