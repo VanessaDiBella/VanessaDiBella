@@ -11,15 +11,25 @@
 
  -->
 
-# Ciao belli! :dizzy:
+# Ciao belli! 🌟
 
-## Thanks for passing by!
-First of all, let me introduce myself. I'm an italian interior and visual designer with a passion for 3D modeling and art. Currently in a *WebDev* bootcamp with **neue fische**, so stay tuned for my progress!
-### Softwares I previously worked with
+## Thanks for stopping by!
+
+First of all, let me introduce myself. I’m an Italian interior and visual designer and junior web developer with a passion for 3D modeling and art. I recently completed a *Web Development* bootcamp with **neue fische** and am currently open to job opportunities!
+
+### Software I have experience with:
 - Adobe Photoshop
-- Adobe Indesign
+- Adobe InDesign
 - Adobe Illustrator
 - Vectorworks
 - Rhino 3D
 - SketchUp
-- Vray
+- V-Ray
+
+### Skills I acquired during my bootcamp:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Basic backend development
